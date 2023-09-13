@@ -1,5 +1,5 @@
-<!-- Task 3: Grade Calculator
-Develop a PHP script named grade_calculator.php that computes the average of three test scores and determines the corresponding letter grade.
+<!-- 
+Task 3: Grade Calculator Develop a PHP script named grade_calculator.php that computes the average of three test scores and determines the corresponding letter grade.
 -->
 
 <?php
